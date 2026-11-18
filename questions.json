@@ -1,0 +1,14 @@
+[
+  {"question": "What optimizer was used for training?", "keywords": ["Adam"]},
+  {"question": "How many attention heads are used in the base model?", "keywords": ["8", "eight"]},
+  {"question": "What is the model dimension d_model in the base model?", "keywords": ["512"]},
+  {"question": "What is the inner-layer dimensionality of the feed-forward network?", "keywords": ["2048"]},
+  {"question": "How many warmup steps were used for the learning rate?", "keywords": ["4000"]},
+  {"question": "What dropout rate was used for the base model?", "keywords": ["0.1"]},
+  {"question": "What BLEU score did the big model reach on English-to-German?", "keywords": ["28.4"]},
+  {"question": "What BLEU score did the big model reach on English-to-French?", "keywords": ["41.8"]},
+  {"question": "What GPUs were used for training?", "keywords": ["P100"]},
+  {"question": "Which functions are used for positional encodings?", "keywords": ["sine", "cosine"]},
+  {"question": "What is the name of the attention function used in the Transformer?", "keywords": ["scaled dot"]},
+  {"question": "What is the capital of France?", "keywords": ["don't know", "do not know"]}
+]

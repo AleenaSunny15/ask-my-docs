@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.env
+index.faiss
+chunks.pkl
+data/*.pdf
+Untitled-1.txt

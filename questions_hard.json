@@ -1,0 +1,14 @@
+[
+  {"question": "Why are the dot products scaled by 1 over the square root of d_k?", "keywords": ["gradient"]},
+   {"question": "How does the model know the order of words when it has no recurrence?", "keywords": ["positional encoding", "positional-encoding"]},
+  {"question": "What does masking in the decoder self-attention prevent?", "keywords": ["subsequent", "future"]},
+  {"question": "What are the three ways multi-head attention is used in the Transformer?", "keywords": ["encoder-decoder"]},
+  {"question": "How many training steps were used for the base model?", "keywords": ["100,000", "100000"]},
+  {"question": "How long did the big models train?", "keywords": ["3.5 days"]},
+  {"question": "How many sentence pairs were in the English-German training data?", "keywords": ["4.5 million"]},
+  {"question": "What vocabulary size was used for English-German?", "keywords": ["37000", "37,000", "37 000"]},
+  {"question": "Besides machine translation, which task did the authors test the Transformer on to show it generalizes?", "keywords": ["constituency parsing"]},
+  {"question": "What is the maximum path length for self-attention layers?", "keywords": ["o(1)", "constant"]},
+  {"question": "What accuracy did the Transformer get on ImageNet?", "keywords": ["don't know"]},
+  {"question": "How does the Transformer perform on speech recognition?", "keywords": ["don't know"]}
+]
